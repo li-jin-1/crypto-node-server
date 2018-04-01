@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/li-jin-1/crypto-node-server/issues"
   },
-  "homepage": "https://github.com/li-jin-1/crypto-node-server#readme"
+  "homepage": "https://github.com/li-jin-1/crypto-node-server#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  }
 }
