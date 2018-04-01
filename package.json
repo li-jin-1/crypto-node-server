@@ -1,0 +1,19 @@
+{
+  "name": "crypto_node_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/li-jin-1/crypto-node-server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/li-jin-1/crypto-node-server/issues"
+  },
+  "homepage": "https://github.com/li-jin-1/crypto-node-server#readme"
+}
